@@ -25,5 +25,6 @@
 
 - Junit Test : due to limit time, I just test part of the function
 
+- Time: about 0.1s for each spider thread, and totally use about 13s to finish.
 -----------------------
 Huan Xu
